@@ -1,4 +1,0 @@
-# Public repository link
-
-https://github.com/paulnmiller22/git-task.git
-
